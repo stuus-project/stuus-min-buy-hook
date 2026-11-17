@@ -1,0 +1,19 @@
+STuus Etherscan verification values
+
+Compiler type: Solidity (Standard-Json-Input)
+Compiler version: v0.8.26+commit.8a97fa7a
+License: MIT
+Optimization: enabled, 200 runs (already included in Standard JSON)
+EVM version: Cancun (already included in Standard JSON)
+
+Token
+Address: 0x746a2Eb210a72EEE8CCa9Ff2b25F8FC20dFbd7ed
+Contract: project/contracts/STuusToken.sol:STuusToken
+Constructor arguments (ABI-encoded, without 0x):
+000000000000000000000000d52320338003c6a1f84497f73c7d94fde661b35b
+
+Hook
+Address: 0x0E14d8EC45656EE16aD3cafcb9dfC6709Fd68040
+Contract: project/contracts/STuusMinBuyHook.sol:STuusMinBuyHook
+Constructor arguments (ABI-encoded, without 0x):
+000000000000000000000000000000000004444c5dc75cb358380d2e3de08a90000000000000000000000000746a2eb210a72eee8cca9ff2b25f8fc20dfbd7ed000000000000000000000000d52320338003c6a1f84497f73c7d94fde661b35b
